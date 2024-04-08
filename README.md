@@ -4,24 +4,24 @@ This repository contains the source code for an extension named "irm" designed f
 
 ## Features:
 
--Implementation of lossless image compression using Huffman coding.
--Ability to compress images without loss of data.
--Potential for further optimization and extension.
+- Implementation of lossless image compression using Huffman coding.
+- Ability to compress images without loss of data.
+- Potential for further optimization and extension.
 ## Usage:
 
-1-Clone the repository to your local machine.
-2-Navigate to the project directory.
-3-Ensure you have the necessary dependencies installed.
-4-Run the compression algorithm on the desired image file using the provided commands.
-5-Evaluate the compressed image for quality and file size reduction.
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Ensure you have the necessary dependencies installed.
+4. Run the compression algorithm on the desired image file using the provided commands.
+5. Evaluate the compressed image for quality and file size reduction.
 ## Contributing:
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests. Please ensure that any changes align with the project goals and coding standards.
 
 ## Future Development:
 
--Explore additional compression techniques for improved efficiency.
--Implement support for other image formats.
--Enhance the user interface for better usability.
+- Explore additional compression techniques for improved efficiency.
+- Implement support for other image formats.
+- Enhance the user interface for better usability.
 
 
 ## Acknowledgments:
